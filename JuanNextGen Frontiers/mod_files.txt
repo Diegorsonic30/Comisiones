@@ -1,6 +1,6 @@
-add/raw/character/sonic.pac
-add/raw/character/supersonic.pac
-add/raw/character/supersonic2.pac
-add/raw/character/playercommon.pac
-add/raw/EventCommon.pac
-add/mod.ini
+add raw/character/sonic.pac
+add raw/character/supersonic.pac
+add raw/character/supersonic2.pac
+add raw/character/playercommon.pac
+add raw/EventCommon.pac
+add mod.ini
