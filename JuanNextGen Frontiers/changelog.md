@@ -1,3 +1,6 @@
+## *JuanNextGen Frontiers* V.1.01
+-Add Cyber Models and Damage model. c:
+
 ## *JuanNextGen Frontiers* V.1.0
 - Wan ha terminado en una nueva dimensión tras uno de sus viajes multiversales,
   ha tomado el lugar de Sonic en la historia y ahora junto a Amy, Tails & Knuckles,
