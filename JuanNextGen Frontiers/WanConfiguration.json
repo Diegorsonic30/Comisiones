@@ -1,0 +1,44 @@
+{
+    "Groups": [
+      {
+        "Name": "Main",
+        "DisplayName": "Wan Frontiers | Configuración",
+        "Elements": [
+          {
+            "Name": "IncludeDir0",
+            "DisplayName": "Tipo de modelo y animación",
+            "Description": ["Aquí puedes intercalar entre el viejo modelo de Wan Frontiers y el nuevo, junto a una animacion nueva hecha por 'NooB_B3D' del mod ''Marza' Sonic Run Cycle (Boost)'."],
+            "Type": "WAN",
+            "MinValue": null,
+            "MaxValue": null,
+            "DefaultValue": "Wan_new_on"
+          }
+        ]
+      }
+    ],
+    "Enums": {
+        "WAN": [
+            {
+                "DisplayName": "Nuevo modelo + 'Marza' Sonic Run Cycle (Boost)'",
+                "Value": "Wan_new_on",
+                "Description": [""]
+            },
+            {
+                "DisplayName": "Nuevo modelo",
+                "Value": "Wan_new_off",
+                "Description": [""]
+            },
+            {
+                "DisplayName": "Viejo modelo + 'Marza' Sonic Run Cycle (Boost)'",
+                "Value": "Wan_old_on",
+                "Description": [""]
+            },
+            {
+                "DisplayName": "Viejo modelo",
+                "Value": "Wan_old_off",
+                "Description": [""]
+            }
+        ]
+    },
+    "IniFile": "mod.ini"
+}

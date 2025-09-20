@@ -1,3 +1,6 @@
+## *Wan Frontiers* V.2.0
+- Wan's new model has been added along with the animations from the 'Marza' Sonic Run Cycle (Boost) mod.
+
 ## *JuanNextGen Frontiers* V.1.03
 - Fixed a bug with _spt files
   

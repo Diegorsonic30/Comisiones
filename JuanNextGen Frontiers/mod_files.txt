@@ -1,9 +1,49 @@
-add raw/character/sonic.pac
-add raw/character/supersonic.pac
-add raw/character/supersonic2.pac
-add raw/character/playercommon.pac
-add raw/character/soniccyber.pac
-add raw/character/supersoniccyber.pac
-add raw/character/supersonicdamage.pac
-add raw/EventCommon.pac
+delete raw/character/sonic.pac
+delete raw/character/supersonic.pac
+delete raw/character/supersonic2.pac
+delete raw/character/playercommon.pac
+delete raw/character/soniccyber.pac
+delete raw/character/supersoniccyber.pac
+delete raw/character/supersonicdamage.pac
+delete raw/EventCommon.pac
+
+add Wan_old_off/raw/character/sonic.pac
+add Wan_old_off/raw/character/supersonic.pac
+add Wan_old_off/raw/character/supersonic2.pac
+add Wan_old_off/raw/character/playercommon.pac
+add Wan_old_off/raw/character/soniccyber.pac
+add Wan_old_off/raw/character/supersoniccyber.pac
+add Wan_old_off/raw/character/supersonicdamage.pac
+add Wan_old_off/raw/EventCommon.pac
+
+add Wan_old_on/raw/character/sonic.pac
+add Wan_old_on/raw/character/supersonic.pac
+add Wan_old_on/raw/character/supersonic2.pac
+add Wan_old_on/raw/character/playercommon.pac
+add Wan_old_on/raw/character/soniccyber.pac
+add Wan_old_on/raw/character/supersoniccyber.pac
+add Wan_old_on/raw/character/supersonicdamage.pac
+add Wan_old_on/raw/EventCommon.pac
+
+add Wan_new_off/raw/character/sonic.pac
+add Wan_new_off/raw/character/supersonic.pac
+add Wan_new_off/raw/character/supersonic2.pac
+add Wan_new_off/raw/character/playercommon.pac
+add Wan_new_off/raw/character/soniccyber.pac
+add Wan_new_off/raw/character/supersoniccyber.pac
+add Wan_new_off/raw/character/supersonicdamage.pac
+add Wan_new_off/raw/event/scene/zev_sp_riflebeast.pac
+add Wan_new_off/raw/EventCommon.pac
+
+add Wan_new_on/raw/character/sonic.pac
+add Wan_new_on/raw/character/supersonic.pac
+add Wan_new_on/raw/character/supersonic2.pac
+add Wan_new_on/raw/character/playercommon.pac
+add Wan_new_on/raw/character/soniccyber.pac
+add Wan_new_on/raw/character/supersoniccyber.pac
+add Wan_new_on/raw/character/supersonicdamage.pac
+add Wan_new_on/raw/event/scene/zev_sp_riflebeast.pac
+add Wan_new_on/raw/EventCommon.pac
+
+add WanConfiguration.json
 add mod.ini
